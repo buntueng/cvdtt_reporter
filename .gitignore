@@ -1,0 +1,6 @@
+*.pyc
+*.yml
+*.log
+*.exe
+*.dll
+*.ini
